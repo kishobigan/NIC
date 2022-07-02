@@ -1,0 +1,3 @@
+/home/kishobigan/work/C/NIC/cmake-build-debug/CMakeFiles/NIC.dir
+/home/kishobigan/work/C/NIC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kishobigan/work/C/NIC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
